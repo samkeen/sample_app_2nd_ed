@@ -1,3 +1,5 @@
+## Revisiting the ROR Tutorial using Rails 3.2 to review what has changed
+
 # Ruby on Rails Tutorial: sample application
 
 This is the sample application for
